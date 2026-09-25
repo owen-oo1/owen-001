@@ -1,83 +1,48 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Hi%20I'm%20Owen%20👋&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35)
+<div align="center">
+  <img src="./banner.svg" alt="Owen — Software Developer, Data & Cybersecurity" width="100%" />
+</div>
 
----
+<br />
 
-## 🚀 About Me  
-- 🎓 **BBIT Student (3rd Year, 1st Semester)**  
-- 📊 Currently pursuing **ALX Data Science** & **100 Days of Python**  
-- 💻 Passionate about **Data Science, Machine Learning & Full Stack Development**  
-- 🛒 Working nights at **Naivas** while coding by day 💪  
-- 🌱 Lifelong learner | Problem-solver | Tech explorer  
+### I turn ideas into code and data into insights.
 
----
+I'm Owen — a self-taught and formally trained developer working across software development, data, and cybersecurity. My path started with animation (Blender 3D, with a friend, Jason), which pulled me into Python for automation, then into IoT and electronics through a love of physics, and eventually into data and security. I approach development as both art and craft: logic and structure, with room for creativity.
 
-## 📚 Currently Learning  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)  
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
+I'm drawn to projects that blend hardware and software, automation, and data-driven systems that solve real problems — and I care about understanding the *why* behind the *how*, not just shipping something that works.
 
----
+<br />
 
-## 🛠️ Tech Stack  
+### Skills
 
-### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+`PowerBI` `AWS` `React` `C/C++` `JavaScript` `Node.js` `Python` `Machine Learning` `REST` `MySQL` `PostgreSQL` `Firebase` `WordPress` `Shopify` `HTML` `CSS` `Next.js` `Apache Airflow` `CI/CD` `Docker` `Apache Spark` `ETL`
 
-### 🌐 Web & Frameworks  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![EJS](https://img.shields.io/badge/EJS-FFB13B?style=for-the-badge&logo=javascript&logoColor=black)  
+<br />
 
-### 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+### Projects
 
-### 📊 Data & Visualization  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)  
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)  
+**Naivas Customer Relationship & Shopping List App**
+A mini-CRM that turns customer shopping intent into actionable retail insights.
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
+**Secure CLI Messaging Application**
+A security-focused command-line messaging platform exploring practical cryptography, authentication, and secure network communication.
 
----
+**More on my website. Link at the end**
 
-## 📌 Featured Projects  
+<br />
 
-- 📦 **Inventory Management System** → [link-to-repo]  
-- 🚗 **RC Car with Matatu Culture Design (Hardware Project)** → [link-to-repo]  
-- 📊 **100 Days of Python Challenges** → [link-to-repo]  
-- 🌐 **Web Development Practice (Node.js + PostgreSQL)** → [link-to-repo]  
+### Education
 
----
+- Bachelor of Science in Business Information Technology (BBIT) — The Co-operative University of Kenya
+- Cyber Security Essentials 1 & Introduction to Cyber Security — Cisco Networking Academy
+- Data Engineering — ALX Africa
+- Data Science — ALX Africa
+- Data Analytics — ALX Africa
+- 100 Days of Web Development Bootcamp — Udemy
 
-## 📈 GitHub Stats  
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owen-oo1&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owen-oo1&theme=tokyonight" height="165"/>
-</p>
+### Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-oo1&layout=compact&theme=tokyonight"/>
-</p>  
+Portfolio: [owens-portfolio.vercel.app](https://owens-portfolio.vercel.app/)
 
----
-
-## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/owen-o-o-themj)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owenoothemj8@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-link.com)  
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
+<br />
